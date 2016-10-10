@@ -9,6 +9,8 @@ public class Message implements Comparable<Message>{
 
 	// some kusok of code
 	
+	//new change
+	
 	public Message(Date datetime, String message) {
 		this.datetime = datetime;
 		this.message = message;
